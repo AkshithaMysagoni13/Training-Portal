@@ -1,0 +1,10 @@
+﻿@page "{trainingId:int}/{employeeId:int}"
+@model ZelisTrainingRazorWebApp.Pages.Trainees.DetailsModel
+
+<h2>Trainee Details</h2>
+
+<p><strong>Training ID:</strong> @Model.trainee.TrainingId</p>
+<p><strong>Employee ID:</strong> @Model.trainee.EmpId</p>
+<p><strong>Status:</strong> @Model.trainee.Status</p>
+
+<a href="/Trainees/Index">Back to List</a>

@@ -1,0 +1,41 @@
+﻿@page
+@model ZelisTrainingRazorWebApp.Pages.Employees.IndexModel
+@using ZelisTrainingLibrary.Models
+
+@{
+    ViewData["Title"] = "Employee List";
+}
+
+<a class="nav-link text-dark" asp-area="" asp-page="/Employees/Create">Add Employee</a>
+<br />
+<h2>List of Employees</h2>
+
+<table class="table table-striped" border="1">
+    <thead>
+        <tr>
+            <th>EmpID</th>
+            <th>Name</th>
+            <th>Designation</th>
+            <th>Email</th>
+            <th>Phone</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Employee emp in Model.employees)
+        {
+            <tr>
+                <td>@emp.EmpId</td>
+                <td>@emp.Name</td>
+                <td>@emp.Designation</td>
+                <td>@emp.Email</td>
+                <td>@emp.Phone</td>
+                <td>
+                    <a href="/Employees/Details/@emp.EmpId">Details</a> |
+                    <a href="/Employees/Edit/@emp.EmpId">Edit</a> |
+                    <a href="/Employees/Delete/@emp.EmpId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

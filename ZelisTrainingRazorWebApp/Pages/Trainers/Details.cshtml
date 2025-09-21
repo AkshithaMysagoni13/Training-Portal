@@ -1,0 +1,13 @@
+﻿@page "{id}"
+@model ZelisTrainingRazorWebApp.Pages.Trainers.DetailsModel
+@using ZelisTrainingLibrary.Models
+
+<h2>Trainer Details</h2>
+
+<p><strong>ID:</strong> @Model.Trainer.TrainerId</p>
+<p><strong>Name:</strong> @Model.Trainer.Name</p>
+<p><strong>Type:</strong> @Model.Trainer.Type</p>
+<p><strong>Email:</strong> @Model.Trainer.Email</p>
+<p><strong>Phone:</strong> @Model.Trainer.Phone</p>
+
+<a href="/Trainers/Index">Back to List</a>

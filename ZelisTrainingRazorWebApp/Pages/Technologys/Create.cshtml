@@ -1,0 +1,39 @@
+﻿@* @page
+@model ZelisTrainingRazorWebApp.Pages.Technologies.CreateModel
+
+<h2>Add New Technology</h2>
+
+<form method="post">
+    <label asp-for="Technology.TechnologyName">Name:</label>
+    <input asp-for="Technology.TechnologyName" class="form-control" />
+    <hr />
+
+    <label asp-for="Technology.Level">Level (B/I/A):</label>
+    <input asp-for="Technology.Level" maxlength="1" class="form-control" />
+    <hr />
+
+    <label asp-for="Technology.Duration">Duration (in days):</label>
+    <input asp-for="Technology.Duration" type="number" min="0" class="form-control" />
+    <hr />
+
+    <input type="submit" value="Save" class="btn btn-primary" />
+</form>
+
+<a href="/Technologies/Index">Back to List</a> *@
+@page
+@model ZelisTrainingRazorWebApp.Pages.Technologys.CreateModel
+
+<h2>Add Technology</h2>
+
+<form method="post">
+    <label asp-for="Technology.Name">Name:</label>
+    <input asp-for="Technology.Name" class="form-control" />
+
+    <label asp-for="Technology.Level">Level (B/I/A):</label>
+    <input asp-for="Technology.Level" class="form-control" />
+
+    <label asp-for="Technology.Duration">Duration (days):</label>
+    <input asp-for="Technology.Duration" class="form-control" />
+
+    <input type="submit" value="Add Technology" class="btn btn-primary" />
+</form>

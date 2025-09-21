@@ -1,0 +1,20 @@
+﻿@page "{id}"
+@model ZelisTrainingRazorWebApp.Pages.Employees.DeleteModel
+@{
+    ViewData["Title"] = "Delete Employee";
+}
+
+<h2>Delete Employee</h2>
+
+<div>
+    <p><strong>Employee ID:</strong> @Model.Employee.EmpId</p>
+    <p><strong>Name:</strong> @Model.Employee.Name</p>
+    <p><strong>Designation:</strong> @Model.Employee.Designation</p>
+    <p><strong>Email:</strong> @Model.Employee.Email</p>
+    <p><strong>Phone:</strong> @Model.Employee.Phone</p>
+</div>
+
+<form method="post">
+    <input type="submit" value="Delete" class="btn btn-danger" />
+    <a asp-page="/Employees/Index" class="btn btn-secondary">Cancel</a>
+</form>

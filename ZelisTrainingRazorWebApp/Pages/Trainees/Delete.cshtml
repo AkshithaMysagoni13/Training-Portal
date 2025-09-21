@@ -1,0 +1,15 @@
+﻿@page "{trainingId:int}/{employeeId:int}"
+@model ZelisTrainingRazorWebApp.Pages.Trainees.DeleteModel
+
+<h2>Delete Confirmation</h2>
+
+<p>Are you sure you want to delete this trainee?</p>
+
+<p><strong>Training ID:</strong> @Model.trainee.TrainingId</p>
+<p><strong>Employee ID:</strong> @Model.trainee.EmpId</p>
+<p><strong>Status:</strong> @Model.trainee.Status</p>
+
+<form method="post">
+    <input type="submit" value="Delete" class="btn btn-danger" />
+    <a href="/Trainees/Index" class="btn btn-secondary">Cancel</a>
+</form>

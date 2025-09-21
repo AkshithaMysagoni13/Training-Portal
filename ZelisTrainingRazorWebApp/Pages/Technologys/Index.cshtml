@@ -1,0 +1,34 @@
+﻿@page
+@model ZelisTrainingRazorWebApp.Pages.Technologys.IndexModel
+@using ZelisTrainingLibrary.Models
+
+<a class="nav-link text-dark" asp-area="" asp-page="/Technologys/Create">Add Technology</a>
+<br />
+<h2>List of Technologys</h2>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Technology ID</th>
+            <th>Name</th>
+            <th>Level</th>
+            <th>Duration (days)</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var tech in Model.Technologies)
+        {
+            <tr>
+                <td>@tech.TechnologyId</td>
+                <td>@tech.Name</td>
+                <td>@tech.Level</td>
+                <td>@tech.Duration</td>
+                <td>
+                    <a href="/Technologys/Details/@tech.TechnologyId">Details</a> |
+                    <a href="/Technologys/Edit/@tech.TechnologyId">Edit</a> |
+                    <a href="/Technologys/Delete/@tech.TechnologyId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

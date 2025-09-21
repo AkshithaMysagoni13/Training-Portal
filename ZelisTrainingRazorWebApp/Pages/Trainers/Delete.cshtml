@@ -1,0 +1,16 @@
+﻿@page "{id}"
+@model ZelisTrainingRazorWebApp.Pages.Trainers.DeleteModel
+@using ZelisTrainingLibrary.Models
+
+<h2>Delete Trainer</h2>
+
+<p><strong>ID:</strong> @Model.Trainer.TrainerId</p>
+<p><strong>Name:</strong> @Model.Trainer.Name</p>
+<p><strong>Type:</strong> @Model.Trainer.Type</p>
+<p><strong>Email:</strong> @Model.Trainer.Email</p>
+<p><strong>Phone:</strong> @Model.Trainer.Phone</p>
+
+<form method="post">
+    <input type="submit" value="Delete" class="btn btn-danger" />
+</form>
+<a href="/Trainers/Index">Back to List</a>

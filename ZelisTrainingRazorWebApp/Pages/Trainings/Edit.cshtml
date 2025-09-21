@@ -1,0 +1,21 @@
+﻿@page "{id}"
+@model ZelisTrainingRazorWebApp.Pages.Trainings.EditModel
+@{
+}
+<h2>Edit Training</h2>
+<form method="post">
+    <label asp-for="Training.TrainerId">Trainer ID:</label>
+    <input asp-for="Training.TrainerId" class="form-control" />
+    <hr />
+    <label asp-for="Training.TechnologyId">Technology ID:</label>
+    <input asp-for="Training.TechnologyId" class="form-control" />
+    <hr />
+    <label asp-for="Training.StartDate">Start Date:</label>
+    <input asp-for="Training.StartDate" type="date" class="form-control" />
+    <hr />
+    <label asp-for="Training.EndDate">End Date:</label>
+    <input asp-for="Training.EndDate" type="date" class="form-control" />
+    <hr />
+    <input type="submit" value="Update" class="btn btn-primary" />
+</form>
+<a href="/Trainings/Index">Back to List</a>

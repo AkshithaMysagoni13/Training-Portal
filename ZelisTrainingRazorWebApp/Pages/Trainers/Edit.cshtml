@@ -1,0 +1,22 @@
+﻿@page "{id}"
+@model ZelisTrainingRazorWebApp.Pages.Trainers.EditModel
+@using ZelisTrainingLibrary.Models
+
+<h2>Edit Trainer Details</h2>
+<form method="post">
+    <input type="hidden" asp-for="trainer.TrainerId" />
+    <label asp-for="trainer.Name">Name:</label>
+    <input asp-for="trainer.Name" class="form-control" />
+    <hr>
+    <label asp-for="trainer.Type">Type:</label>
+    <input asp-for="trainer.Type" class="form-control" />
+    <hr>
+    <label asp-for="trainer.Email">Email:</label>
+    <input asp-for="trainer.Email" class="form-control" />
+    <hr>
+    <label asp-for="trainer.Phone">Phone:</label>
+    <input asp-for="trainer.Phone" class="form-control" />
+    <hr />
+    <input type="submit" value="Save" class="btn btn-success" />
+</form>
+<a href="/Trainers/Index">Back to List</a>

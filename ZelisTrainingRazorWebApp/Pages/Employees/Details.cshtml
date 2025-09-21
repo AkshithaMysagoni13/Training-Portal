@@ -1,0 +1,17 @@
+﻿@page "{empid}"
+@model ZelisTrainingRazorWebApp.Pages.Employees.DetailsModel
+@{
+    ViewData["Title"] = "Employee Details";
+}
+
+<h2>Employee Details</h2>
+
+<div>
+    <p><strong>Employee ID:</strong> @Model.Employee.EmpId</p>
+    <p><strong>Name:</strong> @Model.Employee.Name</p>
+    <p><strong>Designation:</strong> @Model.Employee.Designation</p>
+    <p><strong>Email:</strong> @Model.Employee.Email</p>
+    <p><strong>Phone:</strong> @Model.Employee.Phone</p>
+</div>
+
+<a asp-page="/Employees/Index">Back to List</a>
