@@ -1,0 +1,48 @@
+C:\Dotnet\DAY5\Zelis Training Portal\ZelisTrainingLibrary\bin\Debug\net8.0\ZelisTrainingLibrary.deps.json
+C:\Dotnet\DAY5\Zelis Training Portal\ZelisTrainingLibrary\bin\Debug\net8.0\ZelisTrainingLibrary.dll
+C:\Dotnet\DAY5\Zelis Training Portal\ZelisTrainingLibrary\bin\Debug\net8.0\ZelisTrainingLibrary.pdb
+C:\Dotnet\DAY5\Zelis Training Portal\ZelisTrainingLibrary\obj\Debug\net8.0\ZelisTrainingLibrary.csproj.AssemblyReference.cache
+C:\Dotnet\DAY5\Zelis Training Portal\ZelisTrainingLibrary\obj\Debug\net8.0\ZelisTrainingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet\DAY5\Zelis Training Portal\ZelisTrainingLibrary\obj\Debug\net8.0\ZelisTrainingLibrary.AssemblyInfoInputs.cache
+C:\Dotnet\DAY5\Zelis Training Portal\ZelisTrainingLibrary\obj\Debug\net8.0\ZelisTrainingLibrary.AssemblyInfo.cs
+C:\Dotnet\DAY5\Zelis Training Portal\ZelisTrainingLibrary\obj\Debug\net8.0\ZelisTrainingLibrary.csproj.CoreCompileInputs.cache
+C:\Dotnet\DAY5\Zelis Training Portal\ZelisTrainingLibrary\obj\Debug\net8.0\ZelisTrainingLibrary.dll
+C:\Dotnet\DAY5\Zelis Training Portal\ZelisTrainingLibrary\obj\Debug\net8.0\refint\ZelisTrainingLibrary.dll
+C:\Dotnet\DAY5\Zelis Training Portal\ZelisTrainingLibrary\obj\Debug\net8.0\ZelisTrainingLibrary.pdb
+C:\Dotnet\DAY5\Zelis Training Portal\ZelisTrainingLibrary\obj\Debug\net8.0\ref\ZelisTrainingLibrary.dll
+C:\dotnet\Zelis Training Portal\Zelis Training Portal\ZelisTrainingLibrary\bin\Debug\net8.0\ZelisTrainingLibrary.deps.json
+C:\dotnet\Zelis Training Portal\Zelis Training Portal\ZelisTrainingLibrary\bin\Debug\net8.0\ZelisTrainingLibrary.dll
+C:\dotnet\Zelis Training Portal\Zelis Training Portal\ZelisTrainingLibrary\bin\Debug\net8.0\ZelisTrainingLibrary.pdb
+C:\dotnet\Zelis Training Portal\Zelis Training Portal\ZelisTrainingLibrary\obj\Debug\net8.0\ZelisTrainingLibrary.csproj.AssemblyReference.cache
+C:\dotnet\Zelis Training Portal\Zelis Training Portal\ZelisTrainingLibrary\obj\Debug\net8.0\ZelisTrainingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\Zelis Training Portal\Zelis Training Portal\ZelisTrainingLibrary\obj\Debug\net8.0\ZelisTrainingLibrary.AssemblyInfoInputs.cache
+C:\dotnet\Zelis Training Portal\Zelis Training Portal\ZelisTrainingLibrary\obj\Debug\net8.0\ZelisTrainingLibrary.AssemblyInfo.cs
+C:\dotnet\Zelis Training Portal\Zelis Training Portal\ZelisTrainingLibrary\obj\Debug\net8.0\ZelisTrainingLibrary.csproj.CoreCompileInputs.cache
+C:\dotnet\Zelis Training Portal\Zelis Training Portal\ZelisTrainingLibrary\obj\Debug\net8.0\ZelisTrainingLibrary.dll
+C:\dotnet\Zelis Training Portal\Zelis Training Portal\ZelisTrainingLibrary\obj\Debug\net8.0\refint\ZelisTrainingLibrary.dll
+C:\dotnet\Zelis Training Portal\Zelis Training Portal\ZelisTrainingLibrary\obj\Debug\net8.0\ZelisTrainingLibrary.pdb
+C:\dotnet\Zelis Training Portal\Zelis Training Portal\ZelisTrainingLibrary\obj\Debug\net8.0\ref\ZelisTrainingLibrary.dll
+C:\dotnet\ZelisTraining Portal\Zelis Training Portal\ZelisTrainingLibrary\bin\Debug\net8.0\ZelisTrainingLibrary.deps.json
+C:\dotnet\ZelisTraining Portal\Zelis Training Portal\ZelisTrainingLibrary\bin\Debug\net8.0\ZelisTrainingLibrary.dll
+C:\dotnet\ZelisTraining Portal\Zelis Training Portal\ZelisTrainingLibrary\bin\Debug\net8.0\ZelisTrainingLibrary.pdb
+C:\dotnet\ZelisTraining Portal\Zelis Training Portal\ZelisTrainingLibrary\obj\Debug\net8.0\ZelisTrainingLibrary.csproj.AssemblyReference.cache
+C:\dotnet\ZelisTraining Portal\Zelis Training Portal\ZelisTrainingLibrary\obj\Debug\net8.0\ZelisTrainingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\ZelisTraining Portal\Zelis Training Portal\ZelisTrainingLibrary\obj\Debug\net8.0\ZelisTrainingLibrary.AssemblyInfoInputs.cache
+C:\dotnet\ZelisTraining Portal\Zelis Training Portal\ZelisTrainingLibrary\obj\Debug\net8.0\ZelisTrainingLibrary.AssemblyInfo.cs
+C:\dotnet\ZelisTraining Portal\Zelis Training Portal\ZelisTrainingLibrary\obj\Debug\net8.0\ZelisTrainingLibrary.csproj.CoreCompileInputs.cache
+C:\dotnet\ZelisTraining Portal\Zelis Training Portal\ZelisTrainingLibrary\obj\Debug\net8.0\ZelisTrainingLibrary.dll
+C:\dotnet\ZelisTraining Portal\Zelis Training Portal\ZelisTrainingLibrary\obj\Debug\net8.0\refint\ZelisTrainingLibrary.dll
+C:\dotnet\ZelisTraining Portal\Zelis Training Portal\ZelisTrainingLibrary\obj\Debug\net8.0\ZelisTrainingLibrary.pdb
+C:\dotnet\ZelisTraining Portal\Zelis Training Portal\ZelisTrainingLibrary\obj\Debug\net8.0\ref\ZelisTrainingLibrary.dll
+C:\dotnet\ZelisTraining Portal\Zelis Training Project\ZelisTrainingLibrary\bin\Debug\net8.0\ZelisTrainingLibrary.deps.json
+C:\dotnet\ZelisTraining Portal\Zelis Training Project\ZelisTrainingLibrary\bin\Debug\net8.0\ZelisTrainingLibrary.dll
+C:\dotnet\ZelisTraining Portal\Zelis Training Project\ZelisTrainingLibrary\bin\Debug\net8.0\ZelisTrainingLibrary.pdb
+C:\dotnet\ZelisTraining Portal\Zelis Training Project\ZelisTrainingLibrary\obj\Debug\net8.0\ZelisTrainingLibrary.csproj.AssemblyReference.cache
+C:\dotnet\ZelisTraining Portal\Zelis Training Project\ZelisTrainingLibrary\obj\Debug\net8.0\ZelisTrainingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\ZelisTraining Portal\Zelis Training Project\ZelisTrainingLibrary\obj\Debug\net8.0\ZelisTrainingLibrary.AssemblyInfoInputs.cache
+C:\dotnet\ZelisTraining Portal\Zelis Training Project\ZelisTrainingLibrary\obj\Debug\net8.0\ZelisTrainingLibrary.AssemblyInfo.cs
+C:\dotnet\ZelisTraining Portal\Zelis Training Project\ZelisTrainingLibrary\obj\Debug\net8.0\ZelisTrainingLibrary.csproj.CoreCompileInputs.cache
+C:\dotnet\ZelisTraining Portal\Zelis Training Project\ZelisTrainingLibrary\obj\Debug\net8.0\ZelisTrainingLibrary.dll
+C:\dotnet\ZelisTraining Portal\Zelis Training Project\ZelisTrainingLibrary\obj\Debug\net8.0\refint\ZelisTrainingLibrary.dll
+C:\dotnet\ZelisTraining Portal\Zelis Training Project\ZelisTrainingLibrary\obj\Debug\net8.0\ZelisTrainingLibrary.pdb
+C:\dotnet\ZelisTraining Portal\Zelis Training Project\ZelisTrainingLibrary\obj\Debug\net8.0\ref\ZelisTrainingLibrary.dll
